@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Akin Wumi",
+        "alias": "African Yeast",
+        "location": "Lagos, Nigeria",
+        "joinDate": "March 6, 2025",
+        "languages": "Yoruba, English",
+        "bio": "Pan-Africanist. Building Nubia Society",
+        "socialMedia": {
+            "twitter": "https://twitter.com/akinxwumi",
+            "tiktok": "https://tiktok.com/@akinxwumi",
+            "instagram": "https://instagram.com/akinxwumi"
+        }
+    }
+]
